@@ -1,5 +1,5 @@
 /**
-Map1s are associative containers that store elements in a mapped fashion.
+Maps are associative containers that store elements in a mapped fashion.
 Each element has a key value and a mapped value.
 No two mapped values can have same key values.
 
